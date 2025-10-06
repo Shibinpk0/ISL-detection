@@ -1,0 +1,4 @@
+- [x] Modify base.html to decrease navbar size (reduce padding, font sizes)
+- [x] Change navbar to always use hamburger menu (hide nav-links, show hamburger always)
+- [x] Adjust hamburger position if needed
+- [ ] Test the changes by running the server
